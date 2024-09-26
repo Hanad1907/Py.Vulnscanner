@@ -1,0 +1,23 @@
+2024-09-26 15:56:17.529761 [INFO]: Rapport generert for .
+2024-09-26 15:57:51.530066 [INFO]: Rapport generert for .
+2024-09-26 15:58:46.360934 [INFO]: Rapport generert for .
+2024-09-26 15:59:08.392216 [INFO]: Rapport generert for .
+2024-09-26 16:01:21.053780 [INFO]: Rapport generert for .
+2024-09-26 16:12:42.236690 [INFO]: Rapport generert for .
+2024-09-26 16:17:57.820585 [INFO]: Rapport generert for .
+2024-09-26 16:18:10.800853 [INFO]: Rapport generert for .
+2024-09-26 16:54:30.966310 [INFO]: Åpne porter funnet for : []
+2024-09-26 16:54:33.366692 [INFO]: Sårbarheter funnet i OS for : []
+2024-09-26 16:54:33.366692 [INFO]: Rapport generert for .
+2024-09-26 16:57:34.036227 [INFO]: Åpne porter funnet for : []
+2024-09-26 16:57:35.855542 [INFO]: Sårbarheter funnet i OS for : []
+2024-09-26 16:57:35.856542 [INFO]: Rapport generert for .
+2024-09-26 17:00:40.552830 [INFO]: Åpne porter funnet for : []
+2024-09-26 17:00:40.554836 [INFO]: Sårbarheter funnet i OS for : ['Feil ved sjekk av OS-sårbarheter: [WinError 2] Systemet finner ikke angitt fil']
+2024-09-26 17:00:40.554836 [INFO]: Rapport generert for .
+2024-09-26 17:02:58.835698 [INFO]: Åpne porter funnet for : []
+2024-09-26 17:02:58.842782 [INFO]: Sårbarheter funnet i OS for : ['Feil ved sjekk av OS-sårbarheter: [WinError 2] Systemet finner ikke angitt fil']
+2024-09-26 17:02:58.844734 [INFO]: Rapport generert for .
+2024-09-26 17:08:14.405039 [INFO]: Åpne porter funnet for : []
+2024-09-26 17:08:14.407089 [INFO]: Sårbarheter funnet i OS for : ['Feil ved sjekk av OS-sårbarheter: [WinError 2] Systemet finner ikke angitt fil']
+2024-09-26 17:08:14.408063 [INFO]: Rapport generert for .
