@@ -34,6 +34,9 @@ Welcome to **Py.Vulnscanner**! This is a lightweight vulnerability scanner desig
 ## 📄 Report
 After scanning, a report will be generated, highlighting any open ports and OS vulnerabilities found.
 
+📧 Contact
+For questions or feedback, reach out to me at hanadali805@gmail.com.
+
 ## 💡 Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request. 💖
 
